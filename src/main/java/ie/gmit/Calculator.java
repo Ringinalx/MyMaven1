@@ -1,6 +1,7 @@
 package ie.gmit;
 
 import java.util.Scanner;
+// This method will add two numbers
 public class Calculator {
 
     public static void main(String[] args) {
